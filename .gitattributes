@@ -1,0 +1,12 @@
+# Treat text files as UTF-8
+* text=auto
+
+# Mark the license as linguistically neutral
+LICENSE linguist-documentation
+
+# Mark README as documentation
+README.md linguist-documentation
+
+# Prevent linguist from detecting example or test files as main code
+docs/* linguist-documentation
+.github/* linguist-generated
