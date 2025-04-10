@@ -21,4 +21,4 @@ This repository is **public only** to allow Fiverr developers hired by BENZOOgat
 
 ## License
 
-This project is under a **custom license**. See the [LICENSE](./LICENSE) file for full terms.
+This project is under a **custom license**. See the [LICENSE](LICENSE.md) file for full terms.
