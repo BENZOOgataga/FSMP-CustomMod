@@ -1,3 +1,5 @@
+// Owned by BENZOOgataga. Not for redistribution or external server use.
+
 plugins {
     id 'eclipse'
     id 'idea'

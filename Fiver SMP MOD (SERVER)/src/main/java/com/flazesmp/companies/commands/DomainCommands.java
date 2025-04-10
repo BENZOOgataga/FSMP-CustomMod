@@ -1,3 +1,5 @@
+// Owned by BENZOOgataga. Not for redistribution or external server use.
+
 package com.flazesmp.companies.commands;
 
 import com.flazesmp.companies.FlazeSMP;

@@ -1,3 +1,5 @@
+// Owned by BENZOOgataga. Not for redistribution or external server use.
+
 // OpenCompanyCreationGuiPacket.java (client side)
 package com.flazesmp.companies.common.network.packets;
 

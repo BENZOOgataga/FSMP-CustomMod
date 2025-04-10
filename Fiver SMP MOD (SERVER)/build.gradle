@@ -1,3 +1,5 @@
+# This configuration is owned by BENZOOgataga and must not be reused without permission.
+
 plugins {
     id 'eclipse'
     id 'idea'

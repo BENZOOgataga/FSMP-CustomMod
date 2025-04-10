@@ -1,3 +1,6 @@
+// This file is part of a private project owned by BENZOOgataga.
+// Unauthorized use or distribution is strictly prohibited.
+
 package com.flazesmp.companies.client.gui;
 
 import com.mojang.blaze3d.systems.RenderSystem;
