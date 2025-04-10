@@ -1,3 +1,6 @@
+// This file is part of a private project owned by BENZOOgataga.
+// Unauthorized use or distribution is prohibited.
+
 package com.flazesmp.companies.events;
 
 import com.flazesmp.companies.data.Company;

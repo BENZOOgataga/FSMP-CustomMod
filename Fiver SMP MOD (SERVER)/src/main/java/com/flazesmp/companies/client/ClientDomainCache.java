@@ -1,3 +1,6 @@
+// This file is part of a private project owned by BENZOOgataga.
+// Unauthorized use or distribution is prohibited.
+
 // This class is for CLIENT side
 package com.flazesmp.companies.client;
 
