@@ -2,6 +2,13 @@
 
 This project is a custom Minecraft-related codebase owned by **BENZOOgataga**, designed for use exclusively on BENZOOgataga's servers.
 
+## ⚠️ Notice for Fiverr Developers
+
+The missing features of the mod are the following:  
+- Working `/MarketOpen` GUI with a proper layout.  
+- Working `/market <option>` commands.  
+- `/company active` and `/company inactive` commands.  
+
 ## ⚠️ Notice
 
 This repository is **public only** to allow Fiverr developers hired by BENZOOgataga to review the source code and contribute fixes or improvements as part of their contracted work.
